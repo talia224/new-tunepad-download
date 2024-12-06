@@ -1,0 +1,176 @@
+# Piano notes for right hand
+playNote(52, 1)  # E
+playNote(54, 1)  # F#
+playNote(55, 1)  # G
+playNote(52, 1)  # E
+
+playNote(59, 1)  # B
+playNote(52, 1)  # E
+playNote(54, 1)  # F#
+playNote(55, 1)  # G
+playNote(52, 1)  # E
+
+playNote(59, 1)  # B
+playNote(52, 1)  # E
+playNote(54, 1)  # F#
+playNote(55, 1)  # G
+playNote(54, 1)  # F#
+playNote(52, 1)  # E
+playNote(59, 1)  # B
+playNote(54, 1)  # F#
+playNote(52, 1)  # E
+playNote(59, 1)  # B
+playNote(59, 1)  # B
+playNote(59, 1)  # B
+
+playNote(57, 1)  # A
+playNote(59, 1)  # B
+playNote(60, 1)  # C
+playNote(57, 1)  # A
+
+playNote(60, 1)  # C
+playNote(59, 1)  # B
+playNote(57, 1)  # A
+playNote(59, 1)  # B
+playNote(55, 1)  # G
+
+playNote(57, 1)  # A
+playNote(55, 1)  # G
+playNote(54, 1)  # F#
+playNote(59, 1)  # B
+playNote(54, 1)  # F#
+playNote(55, 1)  # G
+playNote(52, 1)  # E
+
+playNote(59, 1)  # B
+playNote(52, 1)  # E
+playNote(54, 1)  # F#
+playNote(55, 1)  # G
+playNote(52, 1)  # E
+
+playNote(59, 1)  # B
+playNote(52, 1)  # E
+playNote(54, 1)  # F#
+playNote(55, 1)  # G
+playNote(54, 1)  # F#
+playNote(52, 1)  # E
+playNote(59, 1)  # B
+playNote(54, 1)  # F#
+playNote(52, 1)  # E
+playNote(59, 1)  # B
+playNote(59, 1)  # B
+playNote(59, 1)  # B
+
+playNote(57, 1)  # A
+playNote(59, 1)  # B
+playNote(60, 1)  # C
+playNote(57, 1)  # A
+
+playNote(60, 1)  # C
+playNote(59, 1)  # B
+playNote(57, 1)  # A
+playNote(59, 1)  # B
+playNote(55, 1)  # G
+
+playNote(57, 1)  # A
+playNote(55, 1)  # G
+playNote(54, 1)  # F#
+playNote(59, 1)  # B
+playNote(54, 1)  # F#
+playNote(55, 1)  # G
+playNote(52, 1)  # E
+
+playNote(60, 1)  # C
+playNote(53, 1)  # F
+playNote(55, 1)  # G
+playNote(56, 1)  # Ab
+playNote(53, 1)  # F
+
+playNote(60, 1)  # C
+playNote(53, 1)  # F
+playNote(55, 1)  # G
+playNote(56, 1)  # Ab
+playNote(53, 1)  # F
+
+playNote(60, 1)  # C
+playNote(53, 1)  # F
+playNote(55, 1)  # G
+playNote(56, 1)  # Ab
+playNote(55, 1)  # G
+playNote(53, 1)  # F
+playNote(60, 1)  # C
+playNote(55, 1)  # G
+playNote(53, 1)  # F
+playNote(60, 1)  # C
+playNote(60, 1)  # C
+playNote(60, 1)  # C
+
+playNote(58, 1)  # Bb
+playNote(60, 1)  # C
+playNote(61, 1)  # Db
+playNote(58, 1)  # Bb
+
+playNote(61, 1)  # Db
+playNote(60, 1)  # C
+playNote(58, 1)  # Bb
+playNote(60, 1)  # C
+playNote(56, 1)  # Ab
+
+playNote(58, 1)  # Bb
+playNote(57, 1)  # Ab
+playNote(55, 1)  # G
+playNote(60, 1)  # C
+playNote(55, 1)  # G
+playNote(56, 1)  # Ab
+playNote(54, 1)  # F
+# Chords and melody notes for "L'Italiano"
+# (Dm) Lasciatemi cantare con la chitarra in mano,
+playNote(50, 1)  # D
+playNote(48, 1)  # A
+playNote(45, 1)  # E
+playNote(48, 1)  # A
+
+# lascitemi cantare sono un Italiano.
+playNote(50, 1)  # D
+playNote(48, 1)  # A
+playNote(45, 1)  # E
+playNote(48, 1)  # A
+
+# Verse 1
+playNote(48, 1)  # A
+playNote(50, 1)  # D
+playNote(50, 1)  # D
+playNote(48, 1)  # A
+playNote(48, 1)  # A
+playNote(50, 1)  # D
+playNote(53, 1)  # G
+playNote(55, 1)  # B
+
+playNote(50, 1)  # D
+playNote(50, 1)  # D
+playNote(50, 1)  # D
+playNote(53, 1)  # G
+playNote(55, 1)  # B
+
+playNote(48, 1)  # A
+playNote(50, 1)  # D
+playNote(50, 1)  # D
+playNote(55, 1)  # B
+
+playNote(50, 1)  # D
+playNote(50, 1)  # D
+playNote(48, 1)  # A
+
+# Chorus
+playNote(50, 1)  # D
+playNote(48, 1)  # A
+playNote(45, 1)  # E
+playNote(48, 1)  # A
+
+# Continue similar patterns for the rest of the song...
+
+# Last part
+playNote(50, 1)  # D
+playNote(48, 1)  # A
+playNote(50, 1)  # D
+playNote(48, 1)  # A
